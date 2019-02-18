@@ -13,5 +13,6 @@ def countdown(counter)
   puts "#{number} SECOND(S)!"
   number -= 1
   sleep(1)
+end
   end
 end
